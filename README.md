@@ -2,54 +2,54 @@
 
 Texto
 
-![Foto Railway](./Imagenes_readme/Railway.png) 
+![Foto Railway](./Imagenes_Readme/Railway.png) 
 
 Texto
 
-![Foto NuevoProyecto](./Imagenes_readme/NuevoProyecto.png) 
+![Foto NuevoProyecto](./Imagenes_Readme/NuevoProyecto.png) 
 
 Texto
 
-![Foto LoginGithub](./Imagenes_readme/LoginGithub.png) 
+![Foto LoginGithub](./Imagenes_Readme/LoginGithub.png) 
 
 Texto
 
-![Foto AccesoRailwayGithub](./Imagenes_readme/AccesoRailwayGithub.png) 
+![Foto AccesoRailwayGithub](./Imagenes_Readme/AccesoRailwayGithub.png) 
 
 Texto
 
-![Foto AñadirVariablesEntorno](./Imagenes_readme/AñadirVariablesEntorno.png) 
+![Foto AñadirVariablesEntorno](./Imagenes_Readme/AñadirVariablesEntorno.png) 
 
 Texto
 
-![Foto Dashboard](./Imagenes_readme/Dashboard.png) 
+![Foto Dashboard](./Imagenes_Readme/Dashboard.png) 
 
 Texto
 
-![Foto Proyectos](./Imagenes_readme/Proyectos.png) 
+![Foto Proyectos](./Imagenes_Readme/Proyectos.png) 
 
 Texto
 
-![Foto ProyectoSettings](./Imagenes_readme/ProyectoSettings.png) 
+![Foto ProyectoSettings](./Imagenes_Readme/ProyectoSettings.png) 
 
 Texto
 
-![Foto Deployments](./Imagenes_readme/Deployments.png) 
+![Foto Deployments](./Imagenes_Readme/Deployments.png) 
 
 Texto
 
-![Foto Variables](./Imagenes_readme/Variables.png) 
+![Foto Variables](./Imagenes_Readme/Variables.png) 
 
 Texto
 
-![Foto Metrics](./Imagenes_readme/Metrics.png) 
+![Foto Metrics](./Imagenes_Readme/Metrics.png) 
 
 Texto
 
-![Foto Settings](./Imagenes_readme/Settings.png) 
+![Foto Settings](./Imagenes_Readme/Settings.png) 
 
 Texto
 
-![Foto Usage](./Imagenes_readme/Usage.png)
+![Foto Usage](./Imagenes_Readme/Usage.png)
 
 Texto
