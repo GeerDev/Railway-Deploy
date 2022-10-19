@@ -5,81 +5,81 @@
 Texto
 </p>
 
-![Foto Railway](./Imagenes_Readme/Railway.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+![Foto Railway](./Imagenes_Readme/Railway.png)
 
 <p align="center">
 Texto
 </p>
 
 <p align="center">
-  <img width="800" height="600" src="./Imagenes_Readme/NuevoProyecto.png">
+  <img src="./Imagenes_Readme/NuevoProyecto.png">
 </p>
 
 <p align="center">
 Texto
 </p>
 
-![Foto LoginGithub](./Imagenes_Readme/LoginGithub.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto LoginGithub](./Imagenes_Readme/LoginGithub.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto AccesoRailwayGithub](./Imagenes_Readme/AccesoRailwayGithub.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto AccesoRailwayGithub](./Imagenes_Readme/AccesoRailwayGithub.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto AñadirVariablesEntorno](./Imagenes_Readme/AñadirVariablesEntorno.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto AñadirVariablesEntorno](./Imagenes_Readme/AñadirVariablesEntorno.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto Dashboard](./Imagenes_Readme/Dashboard.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto Dashboard](./Imagenes_Readme/Dashboard.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto Proyectos](./Imagenes_Readme/Proyectos.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto Proyectos](./Imagenes_Readme/Proyectos.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto ProyectoSettings](./Imagenes_Readme/ProyectoSettings.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto ProyectoSettings](./Imagenes_Readme/ProyectoSettings.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto Deployments](./Imagenes_Readme/Deployments.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto Deployments](./Imagenes_Readme/Deployments.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto Variables](./Imagenes_Readme/Variables.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto Variables](./Imagenes_Readme/Variables.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto Metrics](./Imagenes_Readme/Metrics.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto Metrics](./Imagenes_Readme/Metrics.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto Settings](./Imagenes_Readme/Settings.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+![Foto Settings](./Imagenes_Readme/Settings.png)
 
 <p align="center">
 Texto
 </p>
 
-![Foto Usage](./Imagenes_Readme/Usage.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+![Foto Usage](./Imagenes_Readme/Usage.png)
 
 <p align="center">
 Texto
