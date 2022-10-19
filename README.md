@@ -12,7 +12,7 @@ Texto
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="./Imagenes_Readme/NuevoProyecto.png">
+  <img width="800" height="600" src="./Imagenes_Readme/NuevoProyecto.png">
 </p>
 
 <p align="center">
