@@ -1,9 +1,13 @@
-<div align="center">
+
 # Desplegando un Back-End en Railway
 
+<p align="center">
 Texto
+</p>
 
+<p align="center">
 ![Foto Railway](./Imagenes_Readme/Railway.png) 
+</p>
 
 Texto
 
@@ -54,5 +58,3 @@ Texto
 ![Foto Usage](./Imagenes_Readme/Usage.png)
 
 Texto
-
-</div>
