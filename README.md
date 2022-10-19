@@ -11,7 +11,9 @@ Texto
 Texto
 </p>
 
-![Foto NuevoProyecto](./Imagenes_Readme/NuevoProyecto.png){ width="800" height="600" style="display: block; margin: 0 auto" } 
+<p align="center">
+  <img width="460" height="300" src="./Imagenes_Readme/NuevoProyecto.png">
+</p>
 
 <p align="center">
 Texto
