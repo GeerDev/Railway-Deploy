@@ -5,9 +5,7 @@
 Texto
 </p>
 
-<p align="center">
-![Foto Railway](./Imagenes_Readme/Railway.png) 
-</p>
+![Foto Railway](./Imagenes_Readme/Railway.png){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 Texto
 
