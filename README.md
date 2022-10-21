@@ -2,7 +2,7 @@
 # Desplegando un Back-End en Railway
 
 <p align="center">
-Railway nos aporta la infraestructura necesaria para que podamos desplegar nuestros proyectos, en este caso **vamos a desplegar un back-end** hecho con **NodeJS**.
+Railway nos aporta la infraestructura necesaria para que podamos desplegar nuestros proyectos, en este caso <b>vamos a desplegar un back-end</b> hecho con <b>NodeJS</b>.
 </p>
 
 <p align="center">
