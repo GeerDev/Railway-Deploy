@@ -52,6 +52,7 @@ Antes de que se produzca el despliegue, tenemos la opción de añadir las variab
 
 <p align="center">
 Este es el panel desde donde tendremos acceso al proyecto que se ha creado, en este se pueden observar varias opciones:
+
 - Arriba/Izquierda: Se puede configurar el proyecto para distintos entornos/ambientes en este caso tenemos uno llamado "production".
   
 - Abajo/Izquierda: Existe la posibilidad de conectar nuestro proyecto por consola utilizando Railway CLI.
@@ -107,6 +108,7 @@ En la tercera pestaña "Metrics" podemos ver las estadísticas de nuestro servic
 
 <p align="center">
 En la cuarta y última pestaña "Settings" accedemos a un apartado ajustes del proyecto:
+
 - Tenemos "Environment" donde podemos establecer la rama del repositorio por la cual al actualizarla el servicio se volvera a desplegar (trigger) y también podemos generar un dominio aleatorio o uno personalizado.
   
 - Por otro lado tenemos "Service" donde se muestra información del repositorio de Github del servicio, como se ha construido la "build" del servicio (puedes incluir comandos personalizados para generarla), opciones del "deploy" como un comando para correr cuando se despliegue o "Restart Policy" para proporcionar la configuración a la hota de reiniciar el servicio y por último existe un apartado "Danger" para borrar el servicio de todos los ambientes.
