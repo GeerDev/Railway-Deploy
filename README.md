@@ -12,13 +12,13 @@ Railway nos aporta la infraestructura necesaria para que podamos desplegar nuest
 <p align="center">
 Al clickar en el botón de "Start a New Project" podemos acceder a distintas opciones:
 
-- Utilizar una plantilla predeterminada suya como por ejemplo el stack de Vite + React + Typescript, entre muchas otras.
+- Utilizar <b>una plantilla predeterminada</b> suya como por ejemplo el stack de Vite + React + Typescript, entre muchas otras.
  
-- Desplegar algún tipo de bases de datos.
+- Desplegar algún tipo de <b>bases de datos</b>.
   
-- Crear un proyecto vacio y personalizarlo desde 0.
+- Crear un <b>proyecto vacio</b> y personalizarlo desde 0.
  
-- Utilizar tu cuenta de Github para enlazar los repositorios y crear el servicio desde ese punto.
+- Utilizar tu cuenta de <b>Github</b> para <b>enlazar los repositorios</b> y crear el servicio desde ese punto.
   
 </p>
 
@@ -35,7 +35,7 @@ Tendremos que loguearnos utilizando nuestra cuenta de Github.
 </p>
 
 <p align="center">
-Railway necesita tener acceso a ciertos permisos de tu cuenta de Github, en este caso necesita tener acceso de lectura a metadata y acceso de lectura y escritura a actions, administration, checks, code, commit statuses, deployments, pull request y workflows. Luego seleccionaremos si queremos darle acceso a todos nuestros repositorios o solo a los que le indiques, en mi caso como solo voy a desplegar uno preparado para esta guia, selecciono el indicado.
+Railway necesita <b>tener acceso a ciertos permisos de tu cuenta de Github</b>, en este caso necesita tener acceso de lectura a metadata y acceso de lectura y escritura a actions, administration, checks, code, commit statuses, deployments, pull request y workflows. Luego seleccionaremos si queremos darle acceso a todos nuestros repositorios o solo a los que le indiques, en mi caso como solo voy a desplegar uno preparado para esta guia, selecciono el indicado.
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Railway necesita tener acceso a ciertos permisos de tu cuenta de Github, en este
 </p>
 
 <p align="center">
-Antes de que se produzca el despliegue, tenemos la opción de añadir las variables de entorno.
+Antes de que se produzca el despliegue, tenemos la <b>opción de añadir las variables de entorno</b>.
 </p>
 
 <p align="center">
@@ -53,13 +53,13 @@ Antes de que se produzca el despliegue, tenemos la opción de añadir las variab
 <p align="center">
 Este es el panel desde donde tendremos acceso al proyecto que se ha creado, en este se pueden observar varias opciones:
 
-- Arriba/Izquierda: Se puede configurar el proyecto para distintos entornos/ambientes en este caso tenemos uno llamado "production".
+- Arriba/Izquierda: Se puede configurar el proyecto para distintos <b>entornos/ambientes</b> en este caso tenemos uno llamado "production".
   
-- Abajo/Izquierda: Existe la posibilidad de conectar nuestro proyecto por consola utilizando Railway CLI.
+- Abajo/Izquierda: Existe la posibilidad de conectar nuestro proyecto por consola utilizando <b>Railway CLI</b>.
   
-- Arriba/Derecha: Menú con las opciones de mostrar la documentación de Railway, un apartado de ayuda, el "dashboard" donde se muestran todos los proyectos que tienes, el plan que se tenga contratado, por defecto es "Starter plan" y la configuración de tu cuenta junto a la creación de equipos.
+- Arriba/Derecha: <b>Menú</b> con las opciones de mostrar la documentación de Railway, un apartado de ayuda, el "dashboard" donde se muestran todos los proyectos que tienes, el plan que se tenga contratado, por defecto es "Starter Plan" y la configuración de tu cuenta junto a la creación de equipos.
   
-- Barra lateral: Se muestra un historial de las acciones que han ido ocurriendo en cada uno de los servicios desplegados, justo arriba de esta barra se muestra las opciones para crear un nuevo proyecto y las opciones de cada proyecto.
+- Barra lateral: Se muestra un <b>historial de las acciones</b> que han ido ocurriendo en cada uno de los servicios desplegados, justo arriba de esta barra se muestra las opciones para crear un nuevo proyecto y las opciones de cada proyecto.
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Este es el panel desde donde tendremos acceso al proyecto que se ha creado, en e
 </p>
 
 <p align="center">
-Al clickar en la pestaña "dashboard" se muestra esta pantalla con los proyectos que tienes creados en la actualidad.
+Al clickar en la pestaña "dashboard" se muestra esta pantalla con los <b>proyectos</b> que tienes <b>creados</b> en la actualidad.
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Al clickar en la pestaña "dashboard" se muestra esta pantalla con los proyectos
 </p>
 
 <p align="center">
-Dentro de las herramientas de cada proyecto disponemos de este panel donde podemos acceder a la información general del proyecto, los entornos/ambientes, webhooks (procesos automatizados), los miembros del proyecto, tokens generados, integraciones con otras aplicaciones y un apartado danger para borrar el proyecto o los servicios dentro de él.
+Dentro de las <b>herramientas de cada proyecto</b> disponemos de este panel donde podemos acceder a la información general del proyecto, los entornos/ambientes, webhooks (procesos automatizados), los miembros del proyecto, tokens generados, integraciones con otras aplicaciones y un apartado danger para borrar el proyecto o los servicios dentro de él.
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ Dentro de las herramientas de cada proyecto disponemos de este panel donde podem
 </p>
 
 <p align="center">
-Ahora se muestran las diferentes opciones cuando hacemos click en cada uno de nuestros servicios dentro de nuestro proyecto. En la primera pestaña "Deployments" podemos ver un historial con todo lo ocurrido en nuestro servicio y el estado del servicio en la actualidad. En el botón "View Logs" podemos ver tanto los logs de construcción del servicio como los logs de la aplicación desplegada, además también hay una pestaña de detalles del servicio con un resumen del mismo.
+Ahora se muestran las diferentes opciones cuando hacemos click en cada uno de nuestros servicios dentro de nuestro proyecto. En la <b>primera pestaña "Deployments"</b> podemos ver un historial con todo lo ocurrido en nuestro servicio y el estado del servicio en la actualidad. En el botón "View Logs" podemos ver tanto los logs de construcción del servicio como los logs de la aplicación desplegada, además también hay una pestaña de detalles del servicio con un resumen del mismo.
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ Ahora se muestran las diferentes opciones cuando hacemos click en cada uno de nu
 </p>
 
 <p align="center">
-En la segunda pestaña "Variables" se muestran las variables de entorno y podemos añadir nuevas.
+En la <b>segunda pestaña "Variables"</b> se muestran las variables de entorno y podemos añadir nuevas.
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ En la segunda pestaña "Variables" se muestran las variables de entorno y podemo
 </p>
 
 <p align="center">
-En la tercera pestaña "Metrics" podemos ver las estadísticas de nuestro servicio, se muestran 3 parámetros, el uso de CPU, el uso de Memory y Network.
+En la <b>tercera pestaña "Metrics"</b> podemos ver las estadísticas de nuestro servicio, se muestran 3 parámetros, el uso de CPU, el uso de Memory y Network.
 </p>
 
 <p align="center">
@@ -107,11 +107,11 @@ En la tercera pestaña "Metrics" podemos ver las estadísticas de nuestro servic
 </p>
 
 <p align="center">
-En la cuarta y última pestaña "Settings" accedemos a un apartado ajustes del proyecto:
+En la <b>cuarta y última pestaña "Settings"</b> accedemos a un apartado ajustes del proyecto:
 
 - Tenemos "Environment" donde podemos establecer la rama del repositorio por la cual al actualizarla el servicio se volvera a desplegar (trigger) y también podemos generar un dominio aleatorio o uno personalizado.
   
-- Por otro lado tenemos "Service" donde se muestra información del repositorio de Github del servicio, como se ha construido la "build" del servicio (puedes incluir comandos personalizados para generarla), opciones del "deploy" como un comando para correr cuando se despliegue o "Restart Policy" para proporcionar la configuración a la hota de reiniciar el servicio y por último existe un apartado "Danger" para borrar el servicio de todos los ambientes.
+- Por otro lado tenemos "Service" donde se muestra información del repositorio de Github del servicio, como se ha construido la "build" del servicio (puedes incluir comandos personalizados para generarla), opciones del "deploy" como un comando para correr cuando se despliegue o "Restart Policy" para proporcionar la configuración a la hora de reiniciar el servicio y por último existe un apartado "Danger" para borrar el servicio de todos los ambientes.
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ En la cuarta y última pestaña "Settings" accedemos a un apartado ajustes del p
 </p>
 
 <p align="center">
-El plan que tienes por defecto para utilizar las herramientas que te ofrece Railway es "Starter Plan", este te ofrece 500 horas de ejecución de sus servicios y 5 dolares de uso cada mes. En el caso de querer tener más recursos (más memoria, más procesador, más espacio en el disco duro) y eliminar la restricción de tiempo deberiamos contratar el "Developer Plan" aunque los primeros 5 dolares en este plan siguen siendo gratis. Existe un plan superior en el cual puedes tener aun más recursos y compartir proyectos llamado "Team Plan".
+<b>El plan que tienes por defecto</b> para utilizar las herramientas que te ofrece Railway es <b>"Starter Plan"</b>, este te ofrece 500 horas de ejecución de sus servicios y 5 dolares de uso cada mes. En el caso de querer tener más recursos (más memoria, más procesador, más espacio en el disco duro) y eliminar la restricción de tiempo deberiamos contratar el "Developer Plan" aunque los primeros 5 dolares en este plan siguen siendo gratis. Existe un plan superior en el cual puedes tener aun más recursos y compartir proyectos llamado "Team Plan".
 </p>
 
 <p align="center">
